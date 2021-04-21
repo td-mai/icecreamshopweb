@@ -30,5 +30,9 @@ the running docker containers:
   docker inspect {container-id}
 
   Then use http://{container-ip-addr}
-  
+
+To login in admin page, use admin username and password which were declared in docker-compose ENV:
+  - DJANGO_SUPERUSER_USERNAME=admin
+  - DJANGO_SUPERUSER_PASSWORD=myAdmin*Pass
+
   
