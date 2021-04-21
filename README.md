@@ -4,6 +4,10 @@ Contains 2 sub repositories: icecreamshopapi made by Django, icecreamshopfront m
 
 ## Deployment
 
+git submodule init
+
+git submodule update
+
 cd icecreamshopapi
 
 docker-compose up -d
