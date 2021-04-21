@@ -1,0 +1,6 @@
+[submodule "icecreamshopapi"]
+	path = icecreamshopapi
+	url = https://github.com/td-mai/icecreamshopapi.git
+[submodule "icecreamshopfront"]
+	path = icecreamshopfront
+	url = https://github.com/td-mai/icecreamshopfront.git
